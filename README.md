@@ -1,5 +1,5 @@
 # Get-copper-price
-工作需要每天打开有色金属网取得相关数据进行计算成本，  
+工作需要每天打开有色金属网取得相关数据进行计算成本，运行之后会在目录下面生成两个excel文件
 代码贡献 来自 吾爱破解论坛@ciker_li 。  
 用到库 requests ， BeautifulSoup 4 ，xlwt  
 用pyinstall 命令可以打包；  
